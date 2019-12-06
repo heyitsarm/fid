@@ -1,0 +1,257 @@
+body {
+	margin: 0px;
+	background-color:#003455;
+	font-family: "Myriad Pro", "arial", sans-serif;
+}
+
+.clearboth {
+	clear:both;
+}
+
+.green {
+	color: #003455;
+}
+
+.greenitalic {
+	color: #003455;
+	font-style: italic;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+.greenitalic a {
+	color: #003455;
+	font-style: italic;
+	font-size: 120%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.blue {
+	color: #429bc7;
+}
+
+.blueitalic {
+	color: #429bc7;
+	font-style: italic;
+	text-decoration: none;
+	font-size: 120%;
+}
+
+.blue a {
+		color: #429bc7;
+		text-decoration: none;
+}
+
+.backgroundofdivwhite {
+	height:65px;
+	margin: 0px;
+	background-color:white;
+}
+
+header {
+	width:980px;
+	margin: 0px auto;
+	background-color:;
+}
+
+.phone {
+	width: 400px;
+	margin: 12px 25px 0px 0px;
+	background-color:;
+	float: left;
+	text-align: right;
+}
+
+.logo {
+	width: 200px;
+	margin: 0px auto;
+	float: left;
+	padding: 10px 0px 0px 0px;
+}
+
+.backgroundofdivblue {
+	height: 0px;
+	margin:0px;
+	background-color: #429bc7;
+}
+
+nav {
+	height: 15px;
+	padding: 15px 20px 20px 0px;
+	width: 980px;
+	margin: 0px auto;
+	background-color:;
+	color: #003455;
+	text-align: center;
+	font-family: Bebas Neue;
+	font-size: 20px;
+}
+
+nav a {
+	color: #003455;
+	text-decoration: none;
+	margin: 0px 18px 0px 18px;
+	font-size: 100%;
+}
+
+nav a:hover {
+	color: #bedf38;
+	text-decoration: none;
+}
+
+.banner { 
+	height: 500px; 
+	width: 980px ; 
+	margin: 0px auto;
+}
+
+.backgroundofdivblue2 { 
+	height: 736px ; 
+	margin: 0px; 
+	background-color: #003455; 
+}
+
+.backgroundofdivwhite2 { 
+	margin: 0x; 
+	background-color: white;
+}
+
+.bodyContentTop { 
+	width : 980px; 
+	margin: 0px auto; 
+	background-color: ; 
+}
+
+.one { 
+	width : 245px; 
+	margin :0px; 
+	background-color:;
+	float:left;
+	text-align: center;
+	padding: 0px 79px 0px 0px;
+}
+
+.backgroundofdivlightgreen {
+	margin: 0px;
+	background-color: #e9f5ba;
+}
+
+.bodyContentBottom {
+	width: 980px;
+	margin: 0px auto;
+	background-color: #e9f5ba;
+}
+
+.bottom1 {
+	width:375px;
+	margin: 25px 0px 30px 75px;
+	float:left;
+	background-color: #e9f5ba;
+}
+
+.bottom2 {
+	width:375px;
+	margin: 25px 0px 30px 75px;
+	float:right;
+	background-color: #e9f5fa;
+}
+
+.contact {
+	width: 980px;
+	margin: 0px auto;
+	background-color: white;
+}
+
+.contact1 {
+	width:375px;
+	margin: 25px 0px 30px 75px;
+	float:left;
+	background-color: white;
+}
+
+.contact2 {
+	width:375px;
+	margin: 25px 0px 30px 75px;
+	float:left;
+}
+
+.forms2 {
+	width:375px;
+	margin: 75px 0px 30px 75px;
+	float:left;
+}
+
+.transformations1 {
+	width:;
+	margin: 25px 0px 30px 75px;
+	padding: 25px 0px 0px 0px;
+	background-color:;
+}
+
+.transformations2 {
+	width:;
+	margin: 0px 0px 0px 280px;
+	padding: 0px 0px 30px 0px;
+	float:left;
+}
+
+.dr1 {
+	width:239px;
+	margin: 25px 0px 30px 75px;
+	float:left;
+}
+
+.dr2 {
+	width:375px;
+	margin: 25px 0px 30px 125px;
+	float:left;
+}
+
+
+.reviews1 {
+	width:698px;
+	margin: 25px auto;
+	padding: 25px;
+}
+
+.backgroundofdivblue3 { 
+	height : 267px ; 
+	margin: 0px; 
+	background-color : #003455; 
+}
+
+footer { 
+	width: 980px;
+	height: 276px; 
+	margin: 0px auto;
+	padding: 25px 0px 25px 95px;
+	background-color : #003455;
+	color: white;
+}
+
+footer a {
+	color: white;
+	text-decoration: underline;
+	font-size:100%;
+}
+
+footer a:hover {
+	color: #bedf38;
+	text-decoration: none;
+}
+
+.spacer1 {
+	height:43px;
+	background-color: #429bc7;
+}
+
+.spacer2 {
+	height:43px;
+	background-color: #c0e13a;
+}
+
+.spacer3 {
+	height: 15px;
+	background-color: white;
+}
